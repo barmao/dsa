@@ -1,0 +1,16 @@
+C:\CodeBase\DSA\BinaryTreeExamples\bin\Debug\net5.0\BinaryTreeExamples.exe
+C:\CodeBase\DSA\BinaryTreeExamples\bin\Debug\net5.0\BinaryTreeExamples.deps.json
+C:\CodeBase\DSA\BinaryTreeExamples\bin\Debug\net5.0\BinaryTreeExamples.runtimeconfig.json
+C:\CodeBase\DSA\BinaryTreeExamples\bin\Debug\net5.0\BinaryTreeExamples.runtimeconfig.dev.json
+C:\CodeBase\DSA\BinaryTreeExamples\bin\Debug\net5.0\BinaryTreeExamples.dll
+C:\CodeBase\DSA\BinaryTreeExamples\bin\Debug\net5.0\ref\BinaryTreeExamples.dll
+C:\CodeBase\DSA\BinaryTreeExamples\bin\Debug\net5.0\BinaryTreeExamples.pdb
+C:\CodeBase\DSA\BinaryTreeExamples\obj\Debug\net5.0\BinaryTreeExamples.csproj.AssemblyReference.cache
+C:\CodeBase\DSA\BinaryTreeExamples\obj\Debug\net5.0\BinaryTreeExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeBase\DSA\BinaryTreeExamples\obj\Debug\net5.0\BinaryTreeExamples.AssemblyInfoInputs.cache
+C:\CodeBase\DSA\BinaryTreeExamples\obj\Debug\net5.0\BinaryTreeExamples.AssemblyInfo.cs
+C:\CodeBase\DSA\BinaryTreeExamples\obj\Debug\net5.0\BinaryTreeExamples.csproj.CoreCompileInputs.cache
+C:\CodeBase\DSA\BinaryTreeExamples\obj\Debug\net5.0\BinaryTreeExamples.dll
+C:\CodeBase\DSA\BinaryTreeExamples\obj\Debug\net5.0\ref\BinaryTreeExamples.dll
+C:\CodeBase\DSA\BinaryTreeExamples\obj\Debug\net5.0\BinaryTreeExamples.pdb
+C:\CodeBase\DSA\BinaryTreeExamples\obj\Debug\net5.0\BinaryTreeExamples.genruntimeconfig.cache
