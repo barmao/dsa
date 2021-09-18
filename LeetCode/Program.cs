@@ -23,6 +23,12 @@ namespace LeetCode
             int[] pile = { 1, 1, 2, 2, 2, 3, 3, 3, 4, 4 };
             int minSteps = MinSteps.MinStepsToTake(pile);
             Console.WriteLine("Get Min Steps to Make Are " + minSteps);
+
+            Console.WriteLine("Find Largest K");
+            int[] arrayOfIntegers = { -1,-2, 0, 1, 1, 2, 2, 2, 3, 3, 3};
+            int largestK = LargestK.FindLargestK(arrayOfIntegers);
+            Console.WriteLine("The Largest K is " + largestK);
+
         }
     }
 }

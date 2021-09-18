@@ -39,14 +39,13 @@ namespace LeetCode
 
         public static int CountSteps(char []s1, char []s2, int size)
         {
-            int i=0, j = 0;
+            int i = 0;
             int result = 0;
 
             while(i < size)
             {
-                j = i;
-
-                while(s1[j] != s2[i])
+                int j = i;
+                while (s1[j] != s2[i])
                 {
                     j += 1;
                 }
