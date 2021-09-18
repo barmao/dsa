@@ -29,6 +29,11 @@ namespace LeetCode
             int largestK = LargestK.FindLargestK(arrayOfIntegers);
             Console.WriteLine("The Largest K is " + largestK);
 
+            Console.WriteLine("Find Largest K");
+            String[] arrayOfString = {"cha","r","act","ers"};
+            int noOfCombinations = ConcatenatedString.MaxLength(arrayOfString);
+            Console.WriteLine("The Largest Maximum Length of a Concatenated String is " + noOfCombinations);
+
         }
     }
 }
