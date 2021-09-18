@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeBase\\DSA\\LeetCode\\LeetCode.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\barmao\\DSA\\LeetCode\\LeetCode.csproj": {}
   },
   "projects": {
-    "C:\\CodeBase\\DSA\\LeetCode\\LeetCode.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\barmao\\DSA\\LeetCode\\LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeBase\\DSA\\LeetCode\\LeetCode.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\barmao\\DSA\\LeetCode\\LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "C:\\CodeBase\\DSA\\LeetCode\\LeetCode.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\barmao\\DSA\\LeetCode\\LeetCode.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeBase\\DSA\\LeetCode\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\barmao\\DSA\\LeetCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -18,6 +18,11 @@ namespace LeetCode
                 Console.WriteLine(Anagram.CountSteps(s1.ToCharArray(), s2.ToCharArray(), size));
             else
                 Console.WriteLine(-1);
+
+            Console.WriteLine("Get Min Steps to Make Piles Equal Height");
+            int[] pile = { 1, 1, 2, 2, 2, 3, 3, 3, 4, 4 };
+            int minSteps = MinSteps.MinStepsToTake(pile);
+            Console.WriteLine("Get Min Steps to Make Are " + minSteps);
         }
     }
 }
